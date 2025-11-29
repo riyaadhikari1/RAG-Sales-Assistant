@@ -77,8 +77,4 @@ python test_api.py path/to/your/data.csv
 * `main.py` - FastAPI backend
 * `streamlit_app_client.py` - Streamlit UI
 * `rag-system.py` - Standalone version (no API)
-* `test_api.py` - Test script
 
-## License
-
-MIT
