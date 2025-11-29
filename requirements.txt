@@ -1,0 +1,29 @@
+# Web frameworks
+fastapi>=0.104.1
+uvicorn>=0.24.0
+streamlit>=1.28.0
+
+# Core dependencies
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+requests>=2.31.0
+
+# Pydantic
+pydantic>=2.5.0
+
+# LangChain ecosystem
+langchain>=0.1.0
+langchain-core>=0.1.7
+langchain-community>=0.0.13
+langchain-google-genai>=0.0.6
+langchain-text-splitters>=0.0.1
+
+# Google AI
+google-generativeai>=0.3.2
+
+# Vector store
+chromadb>=0.4.24
+
+# Data processing
+pandas>=2.1.4
+openpyxl>=3.1.2
